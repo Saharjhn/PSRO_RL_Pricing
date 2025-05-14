@@ -1,0 +1,2 @@
+This folder contains an implementation of the Lemke algorithm for computing Nash equilibria in bimatrix games.
+The original code was developed by Prof. Bernhard von Stengel. We have made minor modifications to the output format to better suit our project needs.
